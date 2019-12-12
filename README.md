@@ -7,6 +7,7 @@
 [原文](https://juejin.im/post/5cc1da82f265da036023b628#heading-2)
 
 1. [JS变量和类型](https://github.com/akeymo/blog/issues/1)
+2. [原型和原型链](https://github.com/akeymo/blog/issues/3)
 
 ## JS相关笔记
 1. [用ES5实现Promise/A+规范](https://github.com/akeymo/blog/issues/2)
