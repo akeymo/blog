@@ -8,6 +8,7 @@
 
 1. [JS变量和类型](https://github.com/akeymo/blog/issues/1)
 2. [原型和原型链](https://github.com/akeymo/blog/issues/3)
+3. [作用域和闭包](https://github.com/akeymo/blog/issues/4)
 
 ## JS相关笔记
 1. [用ES5实现Promise/A+规范](https://github.com/akeymo/blog/issues/2)
