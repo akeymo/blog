@@ -6,11 +6,15 @@
 
 [原文](https://juejin.im/post/5cc1da82f265da036023b628#heading-2)
 
+### JavaScript部分
+
 1. [JS变量和类型](https://github.com/akeymo/blog/issues/1)
 2. [原型和原型链](https://github.com/akeymo/blog/issues/3)
 3. [作用域和闭包](https://github.com/akeymo/blog/issues/4)
 4. [JS执行机制](https://github.com/akeymo/blog/issues/6)
 5. [JS语法和API](https://github.com/akeymo/blog/issues/7)
+
+### HTML和CSS部分
 
 ## JS相关笔记
 1. [用ES5实现Promise/A+规范](https://github.com/akeymo/blog/issues/2)
