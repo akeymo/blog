@@ -15,6 +15,7 @@
 5. [JS语法和API](https://github.com/akeymo/blog/issues/7)
 
 ### HTML和CSS部分
+1. [HTML](https://github.com/akeymo/blog/issues/8)
 
 ## JS相关笔记
 1. [用ES5实现Promise/A+规范](https://github.com/akeymo/blog/issues/2)
