@@ -10,6 +10,7 @@
 2. [原型和原型链](https://github.com/akeymo/blog/issues/3)
 3. [作用域和闭包](https://github.com/akeymo/blog/issues/4)
 4. [JS执行机制](https://github.com/akeymo/blog/issues/6)
+5. [JS语法和API](https://github.com/akeymo/blog/issues/7)
 
 ## JS相关笔记
 1. [用ES5实现Promise/A+规范](https://github.com/akeymo/blog/issues/2)
