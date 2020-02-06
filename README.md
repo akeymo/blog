@@ -18,6 +18,9 @@
 1. [HTML](https://github.com/akeymo/blog/issues/8)
 2. [CSS](https://github.com/akeymo/blog/issues/9)
 
+### 计算机基础部分
+1. [网络协议](https://github.com/akeymo/blog/issues/10)
+
 ## JS相关笔记
 1. [用ES5实现Promise/A+规范](https://github.com/akeymo/blog/issues/2)
 2. [实现一个EventEmitter方法](https://github.com/akeymo/blog/issues/5)
