@@ -24,3 +24,4 @@
 ## JS相关笔记
 1. [用ES5实现Promise/A+规范](https://github.com/akeymo/blog/issues/2)
 2. [实现一个EventEmitter方法](https://github.com/akeymo/blog/issues/5)
+3. [实现call、apply、bind方法](https://github.com/akeymo/blog/issues/11)
