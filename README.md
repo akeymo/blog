@@ -26,3 +26,4 @@
 2. [实现一个EventEmitter方法](https://github.com/akeymo/blog/issues/5)
 3. [实现call、apply、bind方法](https://github.com/akeymo/blog/issues/11)
 4. [JS实现深拷贝](https://github.com/akeymo/blog/issues/12)
+5. [JS函数防抖和函数节流](https://github.com/akeymo/blog/issues/13)
