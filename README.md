@@ -29,3 +29,4 @@
 5. [JS函数防抖和函数节流](https://github.com/akeymo/blog/issues/13)
 6. [记录一些经典算法](https://github.com/akeymo/blog/issues/14)
 7. [JS实现函数柯里化](https://github.com/akeymo/blog/issues/15)
+8. [实现Promise.all](https://github.com/akeymo/blog/issues/16)
