@@ -1,5 +1,8 @@
 # min.zhou的博客
 
+## React源码分析
+基于React16+源码的分析笔记，学习参考资料为慕课网的课程：https://coding.imooc.com/class/309.html
+
 ## JS相关笔记
 1. [用ES5实现Promise/A+规范](https://github.com/akeymo/blog/issues/2)
 2. [实现一个EventEmitter方法](https://github.com/akeymo/blog/issues/5)
