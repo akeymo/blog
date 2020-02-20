@@ -2,7 +2,6 @@
 
 ## React源码分析
 基于React16+源码的分析笔记，学习参考资料为慕课网的课程：https://coding.imooc.com/class/309.html。
-因为现在React版本已经到v16.12.0，跟课程上使用的代码版本内容不大一致，因此我是根据课程的思路，整理我对v16.12.0版本代码的理解，可能会有错误，欢迎指出理解上的错漏之处，不胜感谢！
 
 ### 创建更新
 创建更新有三种方式：ReactDOM.render || hydrate、setState、forceUpdate
