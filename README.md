@@ -4,7 +4,9 @@
 基于React16+源码的分析笔记，学习参考资料为慕课网的课程：https://coding.imooc.com/class/309.html。
 
 ### 创建更新
-创建更新有三种方式：ReactDOM.render || hydrate、setState、forceUpdate
+创建更新有三种方式：ReactDOM.render || hydrate、setState、forceUpdate。
+
+`setState`和`forceUpdate`方法的源码和渲染时候创建`update`的过程基本一样，可以自行对比源码。
 
 1. [ReactDOM.render](./React/创建更新/ReactDOM.render.md)
 2. [expirationTime](./React/创建更新/expirationTime.md)
