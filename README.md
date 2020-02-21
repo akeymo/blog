@@ -7,7 +7,7 @@
 创建更新有三种方式：ReactDOM.render || hydrate、setState、forceUpdate
 
 1. [ReactDOM.render](./React/创建更新/ReactDOM.render.md)
-2. [expirationTime的计算](./React/创建更新/expirationTime的计算.md)
+2. [expirationTime](./React/创建更新/expirationTime.md)
 
 
 ## JS相关笔记
