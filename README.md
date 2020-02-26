@@ -11,6 +11,9 @@
 1. [ReactDOM.render](./React/创建更新/ReactDOM.render.md)
 2. [expirationTime](./React/创建更新/expirationTime.md)
 
+### 任务调度
+1. [进入异步调度前](./React/任务调度/进入异步调度前.md)
+
 
 ## JS相关笔记
 1. [用ES5实现Promise/A+规范](https://github.com/akeymo/blog/issues/2)
