@@ -12,7 +12,7 @@
 2. [expirationTime](./React/创建更新/expirationTime.md)
 
 ### 任务调度
-1. [进入异步调度前](./React/任务调度/进入异步调度前.md)
+1. [进入异步调度前](./React/任务调度/beforeAsyncSchedule.md)
 
 
 ## JS相关笔记
