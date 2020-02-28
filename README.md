@@ -13,6 +13,7 @@
 
 ### 任务调度
 1. [进入异步调度前](./React/任务调度/beforeAsyncSchedule.md)
+2. [异步调度过程](./React/任务调度/asyncSchedule.md)
 
 
 ## JS相关笔记
