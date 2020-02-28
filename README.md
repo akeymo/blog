@@ -15,7 +15,6 @@
 1. [进入异步调度前](./React/任务调度/beforeAsyncSchedule.md)
 2. [异步调度过程](./React/任务调度/asyncSchedule.md)
 
-
 ## JS相关笔记
 1. [用ES5实现Promise/A+规范](https://github.com/akeymo/blog/issues/2)
 2. [实现一个EventEmitter方法](https://github.com/akeymo/blog/issues/5)
