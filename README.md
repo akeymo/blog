@@ -15,6 +15,9 @@
 1. [进入异步调度前](./React/任务调度/beforeAsyncSchedule.md)
 2. [异步调度过程](./React/任务调度/asyncSchedule.md)
 
+### 各类组件的update
+1. [进入更新的入口](./React/各类组件的update/beginWork.md)
+
 ## JS相关笔记
 1. [用ES5实现Promise/A+规范](https://github.com/akeymo/blog/issues/2)
 2. [实现一个EventEmitter方法](https://github.com/akeymo/blog/issues/5)
