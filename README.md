@@ -27,6 +27,7 @@
 6. [记录一些经典算法](https://github.com/akeymo/blog/issues/14)
 7. [JS实现函数柯里化](https://github.com/akeymo/blog/issues/15)
 8. [实现Promise.all](https://github.com/akeymo/blog/issues/16)
+9. [JS的排序算法](https://github.com/akeymo/blog/issues/17)
 
 
 ## 一名【合格】前端工程师的自检清单答案整理系列
