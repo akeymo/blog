@@ -29,6 +29,7 @@
 8. [实现Promise.all](https://github.com/akeymo/blog/issues/16)
 9. [JS的排序算法](https://github.com/akeymo/blog/issues/17)
 10. [JS实现二叉搜索树](https://github.com/akeymo/blog/issues/18)
+11. [JS对APP版本号的比较](https://github.com/akeymo/blog/issues/19)
 
 
 ## 一名【合格】前端工程师的自检清单答案整理系列
